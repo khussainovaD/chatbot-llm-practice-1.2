@@ -1,0 +1,5 @@
+streamlit==1.41.1
+pymongo==4.10.1
+numpy==1.26.4
+ollama==0.4.4
+sentence-transformers==2.2.2
